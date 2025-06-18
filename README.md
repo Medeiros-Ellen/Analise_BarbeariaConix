@@ -49,6 +49,7 @@ Para esta análise de dados, utilizamos um conjunto robusto de ferramentas e bib
 * **Shutil:** Módulo de alto nível para operações de arquivo e diretório, como cópia, movimentação ou deleção, útil no pré-processamento de dados ou organização de arquivos.
 * **Unicodedata:** Módulo que fornece acesso à base de dados de caracteres Unicode, útil para normalização de texto (por exemplo, remover acentos) durante o pré-processamento de dados.
 
+---
 
 ## 📉📈 Demonstração dos gráficos
 
