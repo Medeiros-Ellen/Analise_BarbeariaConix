@@ -21,8 +21,7 @@ O projeto seguiu um fluxo de trabalho padrão de análise de dados, incorporando
 
 * **Coleta e Pré-processamento de Dados:** Preparamos e limpamos os dados brutos para garantir alta qualidade e consistência para a análise.
 * **Análise Exploratória de Dados (EDA):** Realizamos visualizações e cálculos estatísticos para entender as características principais do dataset.
-* **Visualização de Dados:** Geramos gráficos e, se aplicável, dashboards interativos para facilitar a compreensão dos insights encontrados.
-* **Modelagem (Se aplicável):** Implementamos modelos para previsões (ex: demanda) ou segmentação (ex: de clientes), caso necessário.
+* **Visualização de Dados:** Geramos gráficos interativos para facilitar a compreensão dos insights encontrados.
 * **Relatórios e Dashboards:** Os resultados da análise foram apresentados de forma clara e concisa para fácil interpretação.
 
 ---
