@@ -27,7 +27,7 @@ O projeto seguiu um fluxo de trabalho padrão de análise de dados, incorporando
 
 ---
 
-### Por Que Este Projeto? (Justificativa)
+### Por Que Este Projeto? 
 
 O desenvolvimento deste projeto foi uma **oportunidade valiosa para a aplicação prática** de conhecimentos adquiridos em nosso curso de análise de dados. Ele nos permitiu trabalhar com dados reais de uma empresa, utilizando ferramentas essenciais como **Pandas**, para organizar e tratar os dados, e **Plotly**, para visualizações impactantes. Além disso, proporcionou um **aprofundamento prático em conceitos de estatística**, fundamentais para a interpretação dos dados e a geração de insights acionáveis.
 
