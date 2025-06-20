@@ -52,8 +52,6 @@ Para esta análise de dados, utilizamos um conjunto robusto de ferramentas e bib
 
 ## 📉📈 Demonstração dos gráficos
 
-![Horas Trabalhadas Por Profissional](https://github.com/user-attachments/assets/9dc25cf9-b49c-4723-8263-63677a19fcbb)
-
 ![Mapa de Calor de Atendimento](https://github.com/user-attachments/assets/42040d65-a536-4769-932e-14e565ba2f00)
 
 ![Serviços Mais Realizados](https://github.com/user-attachments/assets/2dc487df-4624-43e7-9b09-1086bac92620)
