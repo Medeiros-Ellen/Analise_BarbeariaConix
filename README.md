@@ -2,14 +2,6 @@
 
 Este projeto realiza uma **análise de dados abrangente** sobre as operações da Barbearia Conix, buscando insights para otimizar processos, entender o comportamento dos clientes e impulsionar o crescimento do negócio.
 
-
-
-<p align="center">
-  <a href="https://www.canva.com/design/DAGp-Cc9U0c/oUgz4PfYcGtknFv6hUnbYA/edit?utm_content=DAGp-Cc9U0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
-    PARA VISUALIZAÇÃO DOS SLIDES, CLIQUE AQUI! 👈
-  </a>
-</p>
-
 ---
 
 ## 🎯 Objetivos da Análise
@@ -65,5 +57,11 @@ Para esta análise de dados, utilizamos um conjunto robusto de ferramentas e bib
 ![Mapa de Calor de Atendimento](https://github.com/user-attachments/assets/42040d65-a536-4769-932e-14e565ba2f00)
 
 ![Serviços Mais Realizados](https://github.com/user-attachments/assets/2dc487df-4624-43e7-9b09-1086bac92620)
+
+<p align="center">
+  <a href="https://www.canva.com/design/DAGp-Cc9U0c/oUgz4PfYcGtknFv6hUnbYA/edit?utm_content=DAGp-Cc9U0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+    PARA VISUALIZAÇÃO DOS SLIDES, CLIQUE AQUI! 👈
+  </a>
+</p>
 
 
