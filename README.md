@@ -2,8 +2,11 @@
 
 Este projeto realiza uma **análise de dados abrangente** sobre as operações da Barbearia Conix, buscando insights para otimizar processos, entender o comportamento dos clientes e impulsionar o crescimento do negócio.
 
----
-<a href="https://www.canva.com/design/DAGp-Cc9U0c/oUgz4PfYcGtknFv6hUnbYA/edit?utm_content=DAGp-Cc9U0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"> PARA VIZUALIZAÇÃO DOS SLIDES, CLIQUE AQUI! </a>
+<p align="center">
+  <a href="https://www.canva.com/design/DAGp-Cc9U0c/oUgz4PfYcGtknFv6hUnbYA/edit?utm_content=DAGp-Cc9U0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+    PARA VISUALIZAÇÃO DOS SLIDES, CLIQUE AQUI!
+  </a>
+</p>
 
 ---
 
