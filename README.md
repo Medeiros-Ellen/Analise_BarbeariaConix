@@ -50,6 +50,14 @@ Para esta análise de dados, utilizamos um conjunto robusto de ferramentas e bib
 
 ---
 
+<p align="center">
+  <a href="https://www.canva.com/design/DAGp-Cc9U0c/oUgz4PfYcGtknFv6hUnbYA/edit?utm_content=DAGp-Cc9U0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+    PARA VISUALIZAÇÃO DOS SLIDES, CLIQUE AQUI! 👈
+  </a>
+</p>
+
+---
+
 ## 📉📈 Demonstração dos gráficos
 
 <img src="Apresentação da Conix.png" alt = "logo">
